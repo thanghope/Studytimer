@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Studytimer/static/js/main.28753471.js",
+    "main.js": "/Studytimer/static/js/main.59fbd406.js",
     "index.html": "/Studytimer/index.html",
-    "main.28753471.js.map": "/Studytimer/static/js/main.28753471.js.map"
+    "main.59fbd406.js.map": "/Studytimer/static/js/main.59fbd406.js.map"
   },
   "entrypoints": [
-    "static/js/main.28753471.js"
+    "static/js/main.59fbd406.js"
   ]
 }
