@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/studytimer-full/static/js/main.28753471.js",
-    "index.html": "/studytimer-full/index.html",
-    "main.28753471.js.map": "/studytimer-full/static/js/main.28753471.js.map"
+    "main.js": "/Studytimer/static/js/main.28753471.js",
+    "index.html": "/Studytimer/index.html",
+    "main.28753471.js.map": "/Studytimer/static/js/main.28753471.js.map"
   },
   "entrypoints": [
     "static/js/main.28753471.js"
